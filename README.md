@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# QUACS
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Virtual`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`Eixo 3 - Turma 08 - 2024/1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto Quacs está desenvolvendo um aplicativo móvel com o objetivo de simplificar a interação dos usuários com conteúdos de comunidades selecionadas, semelhante aos stories do Instagram. A proposta é oferecer uma experiência personalizada e significativa para jovens adultos, enquanto promove conexões e interações mais direcionadas em seus interesses e hobbies online.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Emile Muniz Ramos
+* Matheus Henrique Oliveira Silva
+* Giovani de Queiroz CheloniGiovani de Queiroz Cheloni
+* Guilherme Batista BritoGuilherme Batista Brito
+* Luís Eduardo Vieira Chaves Paiva
+* Lucas Henrique Vasconcelos SiqueiraLucas Henrique Vasconcelos Siqueira
 
 ## Orientador
 
-* Nome completo do professor 1
+Cristiano de Macêdo Neto
 
 ## Instruções de utilização
 
