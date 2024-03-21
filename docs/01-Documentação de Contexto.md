@@ -1,46 +1,49 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto Quacs visa revolucionar a experiência das redes sociais, oferecendo uma solução centrada nas demandas dos usuários. Diante da sobrecarga de informações não personalizadas nas plataformas sociais atuais, o Quacs surge como uma resposta à necessidade de simplificar a descoberta, interação e engajamento com conteúdos relevantes. Ao abordar a falta de estruturação e personalização nas redes sociais existentes, o projeto busca responder à pergunta central: "Como uma rede social baseada em conteúdo de comunidades selecionadas pode aprimorar a experiência de interação online?".
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+O problema que a aplicação visa resolver é a falta de personalização e integração eficaz entre o conteúdo de diferentes grupos em plataformas de redes sociais existentes. Muitos usuários se sentem sobrecarregados por um volume excessivo de informações não relevantes, o que dificulta a descoberta de conteúdos alinhados aos seus interesses pessoais.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+No contexto em que essa aplicação será usada, podemos considerar a necessidade de uma solução que promova uma interação mais rica e focada dentro das redes sociais.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos do trabalho são direcionados para o desenvolvimento de um software que visa solucionar o problema mencionado anteriormente. O objetivo geral é desenvolver um aplicativo móvel que facilite a personalização e integração eficaz do conteúdo de diferentes grupos em redes sociais, proporcionando uma experiência mais relevante e significativa para os usuários.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Além do objetivo geral, dois objetivos específicos podem ser estabelecidos para direcionar a prática investigativa:
+
+1. Identificar as principais necessidades e preferências dos usuários em relação à interação com comunidades e conteúdos em redes sociais, por meio de pesquisas de mercado, entrevistas e análises de dados.
+2. Projetar e implementar uma interface de usuário intuitiva que permita aos usuários facilmente selecionar e alternar entre diferentes comunidades de interesse, promovendo uma experiência de navegação fluida e amigável.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A escolha de trabalhar com esta aplicação é motivada pela crescente demanda por soluções que ofereçam uma experiência mais personalizada e relevante nas redes sociais. Atualmente, muitos usuários enfrentam o desafio de lidar com um volume excessivo de informações não relevantes, dificultando a interação significativa e a descoberta de conteúdos alinhados aos seus interesses pessoais. Portanto, desenvolver um aplicativo móvel que facilite a personalização e integração eficaz do conteúdo de diferentes grupos em redes sociais é fundamental para atender a essa necessidade crescente.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Os objetivos específicos foram escolhidos com base na importância de compreender as necessidades dos usuários e projetar uma interface de usuário intuitiva que permita uma experiência de navegação fluida e amigável. Identificar as principais necessidades e preferências dos usuários é essencial para garantir que o aplicativo atenda às expectativas e ofereça uma experiência significativa. Além disso, projetar uma interface de usuário intuitiva é crucial para garantir que os usuários possam facilmente selecionar e alternar entre diferentes comunidades de interesse, promovendo uma interação mais fluida e satisfatória com a aplicação.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Os usuários da aplicação abrangem diversos perfis, desde o usuário casual de redes sociais, com conhecimentos básicos em tecnologia e interesse em descobrir novos conteúdos, até o entusiasta de tecnologia, que valoriza a inovação e está aberto a experimentar novas plataformas. Além disso, profissionais de marketing ou social media podem utilizar a aplicação como parte de suas estratégias, buscando ferramentas que facilitem a segmentação de público e a personalização de conteúdo.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+### Demografia:
+* **Faixa Etária:** 18-35 anos, abrangendo jovens adultos que estão na universidade ou já ingressaram no mercado de trabalho. Este grupo está mais aberto a novas tecnologias e formas de socialização digital.
+* **Localização:** Foco inicial em áreas urbanas e grandes centros, onde a concentração de jovens adultos é maior e há uma maior propensão para o engajamento em comunidades digitais.
+  
+### Psicografia:
+* **Interesses:** Usuários com interesse em explorar e engajar-se em comunidades baseadas em hobbies, interesses profissionais, e atividades de lazer. Valorizam plataformas que permitem descobrir novos conteúdos e facilitam a interação com outros membros.
+* **Estilo de Vida:** Indivíduos que integram o uso de tecnologia no dia a dia, procurando formas de se conectar com outros com interesses semelhantes, seja por razões de lazer, aprendizado e networking.
+  
+### Comportamental:
+* **Consumo de Mídia:** Altamente ativos em redes sociais, com uma preferência por plataformas que oferecem conteúdo personalizado e a possibilidade de interações significativas.
+* **Necessidades:** Buscam uma experiência de rede social que minimize o ruído informativo, oferecendo uma navegação focada em comunidades de interesse sem a necessidade de filtrar manualmente grandes volumes de conteúdo não relevante.
+* **Segmentação B2C:**
+Jovens adultos, estudantes ou profissionais, interessados em um consumo de mídia social mais direcionado e significativo. Valorizam a personalização, a facilidade de uso, e a capacidade de conectar-se rapidamente com comunidades específicas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+> Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+
